@@ -1,0 +1,16 @@
+{
+"source":"Athens",
+"Destination":"Singapore",
+"triptype":"twoway",
+"date":
+    {"d1":"12-02-2022",
+      "d2":"29-03-2022"
+      },
+"passengers":
+[{"name1":"abz",
+"email":"@gmail"},
+
+{"name2":"navin",
+"email":"@yahoo"}]
+
+}
